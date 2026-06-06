@@ -112,13 +112,3 @@ Java • Spring Boot • Spring Mail • Spring AMQP (RabbitMQ) • Spring Data 
 ## 📫 Contato
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-gabriel)
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Morcineck&show_icons=true&hide_border=true&cache_seconds=1800" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morcineck&layout=compact&hide_border=true&cache_seconds=1800" />
-
-</p>
