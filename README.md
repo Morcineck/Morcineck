@@ -9,7 +9,6 @@ Em projetos acadêmicos e pessoais, aplico princípios **SOLID** e boas prática
 
 > "A repetição com correção leva à excelência. Levo esse princípio para cada linha de código."
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FSFA**.
  
 ---
  
