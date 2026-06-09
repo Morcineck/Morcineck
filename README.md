@@ -101,4 +101,4 @@ Java • Spring Boot • Spring Mail • Spring AMQP (RabbitMQ) • Spring Data 
  
 ## 📫 Contato
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-gabriel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-gabriel-079043394/)
