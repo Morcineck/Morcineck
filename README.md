@@ -7,7 +7,7 @@ Desenvolvedor Back-end com foco em **Java** e **Spring Boot**, atuando no desenv
 
 Em projetos acadêmicos e pessoais, aplico princípios **SOLID** e boas práticas de código limpo para construir soluções escaláveis, organizadas e de fácil manutenção.
 
-> "A repetição com correção leva à excelência. Levo esse princípio para cada linha de código."
+> "A repetição com correção até a exaustão leva a perfeição." Carrego esse princípio para cada linha de código.
 
  
 ---
