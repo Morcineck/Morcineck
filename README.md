@@ -2,10 +2,11 @@
 
 
 ### Sobre mim
+Desenvolvedor Back-end com foco em **Java** e **Spring Boot**, atuando no desenvolvimento de **APIs RESTful**, autenticação e autorização com **Spring Security** e **JWT**, além da persistência de dados utilizando **JPA/Hibernate**, **PostgreSQL** e **MongoDB**.
 
-Desenvolvedor Back-end com foco em **Java** e **Spring Boot**, atuando no desenvolvimento de **APIs RESTful**, autenticação e autorização com **Spring Security** e **JWT**, além de persistência de dados utilizando **JPA/Hibernate**, **PostgreSQL** e **MongoDB**.
+Tenho interesse em **Segurança da Informação**, Inteligência e Geopolítica, áreas que fortaleceram minha capacidade analítica e minha abordagem estruturada para resolução de problemas. Minha experiência no meio militar contribuiu para o desenvolvimento de disciplina, responsabilidade e tomada de decisão sob pressão, características que aplico diariamente no desenvolvimento de software.
 
-Em projetos acadêmicos e pessoais, aplico princípios **SOLID** e boas práticas de código limpo para construir soluções escaláveis, organizadas e de fácil manutenção.
+Em projetos acadêmicos e pessoais, aplico princípios **SOLID** e boas práticas de **Clean Code** para construir soluções escaláveis, organizadas e de fácil manutenção.
 
 > "A repetição com correção até a exaustão leva a perfeição." Carrego esse princípio para cada linha de código.
 
