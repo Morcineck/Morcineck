@@ -1,4 +1,4 @@
-## Olá, eu sou Robson Gabriel (Morcineck)👋
+## Olá, eu sou Robson Gabriel (Morcineck)
 
 
 ### Sobre mim
