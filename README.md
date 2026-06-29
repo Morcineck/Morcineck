@@ -14,7 +14,7 @@ Em projetos acadêmicos e pessoais, aplico princípios **SOLID** e boas prática
 ## 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morcineck&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Estatisticas+do+GitHub+de+Robson+Morcineck" alt="Estatísticas do GitHub de Robson Morcineck" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morcineck&show_icons=true&theme=tokyoni&include_all_commits=true&count_private=true&custom_title=Estatisticas+do+GitHub+de+Robson+Morcineck" alt="Estatísticas do GitHub de Robson Morcineck" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morcineck&layout=compact&langs_count=7&theme=github_dark&custom_title=Linguagens+Mais+Usadas" alt="Linguagens mais usadas" />
 </div>
