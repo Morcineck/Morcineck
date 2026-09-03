@@ -6,22 +6,13 @@ Desenvolvedor Back-end com foco em **Java** e **Spring Boot**, atuando no desenv
 
 Tenho interesse em **Segurança da Informação**, Inteligência e Geopolítica, áreas que fortaleceram minha capacidade analítica e minha abordagem estruturada para resolução de problemas. Minha experiência no meio militar contribuiu para o desenvolvimento de disciplina, responsabilidade e tomada de decisão sob pressão, características que aplico diariamente no desenvolvimento de software.
 
-Em projetos acadêmicos e pessoais, aplico princípios **SOLID** e boas práticas de **Clean Code** para construir soluções escaláveis, organizadas e de fácil manutenção.
+Em projetos acadêmicos e pessoais, busco aplicar princípios **SOLID** e boas práticas de **Clean Code** para desenvolver soluções organizadas, testáveis e de fácil manutenção.
 
-> "A repetição com correção até a exaustão leva a perfeição." Carrego esse princípio para cada linha de código.
+> "A repetição com correção até a exaustão leva à perfeição." Carrego esse princípio para cada linha de código.
 ---
 
-## 📊 Minhas Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morcineck&show_icons=true&theme=tokyoni&include_all_commits=true&count_private=true&custom_title=Estatisticas+do+GitHub+de+Robson+Morcineck" alt="Estatísticas do GitHub de Robson Morcineck" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morcineck&layout=compact&langs_count=7&theme=github_dark&custom_title=Linguagens+Mais+Usadas" alt="Linguagens mais usadas" />
-</div>
  
----
- 
-## 🚀 Back-end
+## 🚀 Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -32,72 +23,118 @@ Em projetos acadêmicos e pessoais, aplico princípios **SOLID** e boas prática
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
  
 ## 📌 Projetos em Destaque
 
-### 🗂️ Sistema de Usuários
-Sistema responsável pelo gerenciamento de usuários, autenticação e autorização.
+### 💡 Código Comentado
 
-🔗 **[Acessar projeto](https://github.com/Morcineck/usuario)**
+Iniciativa open source voltada ao aprendizado de programação por meio de código totalmente comentado, documentação técnica e trilhas estruturadas de estudo.
 
-**Responsabilidades:**
-- Cadastro e gerenciamento de usuários
-- Autenticação com JWT
-- Controle de acesso com Spring Security
-- Persistência com PostgreSQL
+**Principais contribuições:**
+- Idealização e manutenção do projeto
+- Estruturação de trilhas e roadmaps de aprendizado
+- Definição de padrões de conteúdo e documentação
+- Organização do fluxo de contribuição com Issues, branches, commits e Pull Requests
+- Revisão de código e acompanhamento de contribuições
+- Organização colaborativa utilizando GitHub Projects
 
-**Tecnologias:**
-Java • Spring Boot • Spring Security • JWT • Spring Data JPA • Hibernate • PostgreSQL • Docker
+**Tecnologias e práticas:**  
+`Java` `Git` `GitHub` `GitHub Projects` `Documentação Técnica` `Code Review`
 
----
-
-### 🧠 BFF - Agendador de Tarefas
-Backend For Frontend responsável por centralizar e simplificar a comunicação entre os microsserviços.
-
-🔗 **[Acessar projeto](https://github.com/Morcineck/bff-agendador-tarefas)**
-
-**Responsabilidades:**
-- Integração entre frontend e microsserviços
-- Orquestração de chamadas REST
-- Redução de complexidade no cliente
-- Comunicação via Feign Client
-
-**Tecnologias:**
-Java • Spring Boot • Spring Cloud • Feign Client • Spring Web • REST APIs • Docker
+🔗 [Conhecer o Código Comentado](https://github.com/Codigo-Comentado)
 
 ---
 
-### 📅 Agendador de Tarefas (Microsserviços)
-Sistema distribuído de agendamento de tarefas baseado em arquitetura de microsserviços.
+### 📅 Sistema de Agendamento de Tarefas
 
-🔗 **[Acessar projeto](https://github.com/Morcineck/agendador-tarefas)**
+Sistema backend distribuído desenvolvido em arquitetura de microsserviços para gerenciamento de usuários, tarefas e notificações.
 
-**Responsabilidades:**
-- Implementação de camada BFF para reduzir acoplamento do frontend com microsserviços
-- Orquestração de chamadas utilizando Feign Client
-- Agregação de dados de múltiplos serviços em respostas únicas
-- Comunicação com os serviços de Usuários e Tarefas
+O projeto é dividido em serviços independentes responsáveis por autenticação, gerenciamento de tarefas, comunicação com o cliente e processamento de notificações.
 
-**Tecnologias:**
-Java • Spring Boot • Spring Security • JWT • PostgreSQL • MongoDB • MapStruct • Feign Client
+**Principais implementações:**
+- Autenticação e autorização com Spring Security e JWT
+- Arquitetura baseada em microsserviços
+- Camada BFF para centralização das requisições
+- Comunicação entre serviços utilizando APIs REST e Feign Client
+- Persistência relacional e não relacional
+- Testes automatizados
+- Conteinerização com Docker
+- Automação de build com GitHub Actions
+
+**Tecnologias:**  
+`Java` `Spring Boot` `Spring Security` `JWT` `Feign Client` `PostgreSQL` `MongoDB` `Docker` `GitHub Actions`
+
+**Repositórios:**
+
+- 👤 [Serviço de Usuários e Autenticação](https://github.com/Morcineck/usuario)
+- 🧠 [BFF - Agendador de Tarefas](https://github.com/Morcineck/bff-agendador-tarefas)
+- 📋 [Serviço de Tarefas](https://github.com/Morcineck/agendador-tarefas)
+- 📬 [Serviço de Notificações](https://github.com/Morcineck/notificacao)
 
 ---
 
-### 📬 Serviço de Notificações
-Microsserviço responsável pelo envio de notificações e e-mails de forma assíncrona.
+### 🏢 GLP Client Portal — Gestão de Contratos e Clientes
 
-🔗 **[Acessar projeto](https://github.com/Morcineck/notificacao)**
+Aplicação backend desenvolvida para gerenciamento de clientes, contratos e suas respectivas regras de negócio, utilizando arquitetura monolítica modular.
 
-**Responsabilidades:**
-- Envio de e-mails automáticos
-- Processamento de notificações assíncronas
-- Integração com sistema de tarefas
-- Processamento baseado em eventos
+**Principais implementações:**
+- Gerenciamento de clientes e contratos
+- Modelagem de relacionamentos entre entidades
+- Implementação de regras de negócio
+- Controle do ciclo de vida contratual
+- Persistência utilizando Spring Data JPA e Hibernate
+- Integridade referencial e relacionamentos no PostgreSQL
+- Tratamento centralizado de exceções
+- Organização da aplicação em módulos
 
-**Tecnologias:**
-Java • Spring Boot • Spring Mail • Spring AMQP (RabbitMQ) • Spring Data JPA • MongoDB • Docker
+**Tecnologias:**  
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `PostgreSQL` `REST API` `Git`
+
+🔗 [Acessar projeto](https://github.com/Morcineck/glp-client-portal)
+
+---
+
+### 🚀 BTHS Platform
+> 🛠️ **Projeto em desenvolvimento**
+
+Plataforma backend criada para apoiar a gestão operacional de viagens, hospedagens e serviços relacionados a eventos.
+
+O projeto está sendo desenvolvido de forma incremental, com organização modular e foco na evolução de uma aplicação utilizada em um contexto real de negócio.
+
+**Implementado até o momento:**
+- Estrutura inicial da aplicação
+- Módulo de gerenciamento de viagens
+- Operações CRUD através de API REST
+- DTOs e mapeamento entre camadas
+- Validações e tratamento centralizado de exceções
+- Persistência em banco de dados relacional
+- Testes automatizados
+
+**Tecnologias:**  
+`Java` `Spring Boot` `MySQL` `Spring Data JPA` `Maven` `JUnit` `Mockito` `Git`
+
+> 🔒 Projeto atualmente mantido em repositório privado.
+ 
+---
+
+## 📊 Minhas Estatísticas do GitHub
+
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Morcineck&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=Estatisticas+do+GitHub"
+    alt="Estatísticas do GitHub"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Morcineck&layout=compact&langs_count=7&theme=github_dark&custom_title=Linguagens+Mais+Usadas"
+    alt="Linguagens mais usadas"
+  />
+</div>
  
 ---
  
