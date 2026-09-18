@@ -118,7 +118,7 @@ O projeto está sendo desenvolvido de forma incremental, com organização modul
 **Tecnologias:**  
 `Java` `Spring Boot` `MySQL` `Spring Data JPA` `Maven` `JUnit` `Mockito` `Git`
 
-> 🔒 Projeto atualmente mantido em repositório privado.
+> 🔗 [Acessar projeto](https://github.com/Morcineck/bths-platform)
  
 ---
 
