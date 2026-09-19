@@ -31,6 +31,31 @@ Em projetos acadêmicos e pessoais, busco aplicar princípios **SOLID** e boas p
  
 ## 📌 Projetos em Destaque
 
+---
+
+### 🚀 BTHS Platform
+> 🛠️ **Projeto em desenvolvimento**
+
+Plataforma backend criada para apoiar a gestão operacional de viagens, hospedagens e serviços relacionados a eventos.
+
+O projeto está sendo desenvolvido de forma incremental, com organização modular e foco na evolução de uma aplicação utilizada em um contexto real de negócio.
+
+**Implementado até o momento:**
+- Estrutura inicial da aplicação
+- Módulo de gerenciamento de viagens
+- Operações CRUD através de API REST
+- DTOs e mapeamento entre camadas
+- Validações e tratamento centralizado de exceções
+- Persistência em banco de dados relacional
+- Testes automatizados
+
+**Tecnologias:**  
+`Java` `Spring Boot` `MySQL` `Spring Data JPA` `Maven` `JUnit` `Mockito` `Git`
+
+> 🔗 [Acessar projeto](https://github.com/Morcineck/bths-platform)
+
+---
+
 ### 💡 Código Comentado
 
 Iniciativa open source voltada ao aprendizado de programação por meio de código totalmente comentado, documentação técnica e trilhas estruturadas de estudo.
@@ -78,7 +103,7 @@ O projeto é dividido em serviços independentes responsáveis por autenticaçã
 
 ---
 
-### 🏢 GLP Client Portal — Gestão de Contratos e Clientes
+### 🏢 GLP Client Portal - Gestão de Contratos e Clientes
 
 Aplicação backend desenvolvida para gerenciamento de clientes, contratos e suas respectivas regras de negócio, utilizando arquitetura monolítica modular.
 
@@ -97,29 +122,6 @@ Aplicação backend desenvolvida para gerenciamento de clientes, contratos e sua
 
 🔗 [Acessar projeto](https://github.com/Morcineck/glp-client-portal)
 
----
-
-### 🚀 BTHS Platform
-> 🛠️ **Projeto em desenvolvimento**
-
-Plataforma backend criada para apoiar a gestão operacional de viagens, hospedagens e serviços relacionados a eventos.
-
-O projeto está sendo desenvolvido de forma incremental, com organização modular e foco na evolução de uma aplicação utilizada em um contexto real de negócio.
-
-**Implementado até o momento:**
-- Estrutura inicial da aplicação
-- Módulo de gerenciamento de viagens
-- Operações CRUD através de API REST
-- DTOs e mapeamento entre camadas
-- Validações e tratamento centralizado de exceções
-- Persistência em banco de dados relacional
-- Testes automatizados
-
-**Tecnologias:**  
-`Java` `Spring Boot` `MySQL` `Spring Data JPA` `Maven` `JUnit` `Mockito` `Git`
-
-> 🔗 [Acessar projeto](https://github.com/Morcineck/bths-platform)
- 
 ---
 
 ## 📊 Minhas Estatísticas do GitHub
