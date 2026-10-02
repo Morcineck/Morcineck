@@ -12,7 +12,7 @@ Em projetos acadêmicos e pessoais, busco aplicar princípios **SOLID** e boas p
 ---
 
  
-## 🚀 Tecnologias
+##  Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -29,12 +29,12 @@ Em projetos acadêmicos e pessoais, busco aplicar princípios **SOLID** e boas p
 
 ---
  
-## 📌 Projetos em Destaque
+##  Projetos em Destaque
 
 ---
 
-### 🚀 BTHS Platform
-> 🛠️ **Projeto em desenvolvimento**
+### BTHS Platform
+>  **Projeto em desenvolvimento**
 
 Plataforma backend criada para apoiar a gestão operacional de viagens, hospedagens e serviços relacionados a eventos.
 
@@ -56,7 +56,7 @@ O projeto está sendo desenvolvido de forma incremental, com organização modul
 
 ---
 
-### 💡 Código Comentado
+###  Código Comentado
 
 Iniciativa open source voltada ao aprendizado de programação por meio de código totalmente comentado, documentação técnica e trilhas estruturadas de estudo.
 
@@ -75,7 +75,7 @@ Iniciativa open source voltada ao aprendizado de programação por meio de códi
 
 ---
 
-### 📅 Sistema de Agendamento de Tarefas
+###  Sistema de Agendamento de Tarefas
 
 Sistema backend distribuído desenvolvido em arquitetura de microsserviços para gerenciamento de usuários, tarefas e notificações.
 
@@ -96,14 +96,14 @@ O projeto é dividido em serviços independentes responsáveis por autenticaçã
 
 **Repositórios:**
 
-- 👤 [Serviço de Usuários e Autenticação](https://github.com/Morcineck/usuario)
-- 🧠 [BFF - Agendador de Tarefas](https://github.com/Morcineck/bff-agendador-tarefas)
-- 📋 [Serviço de Tarefas](https://github.com/Morcineck/agendador-tarefas)
-- 📬 [Serviço de Notificações](https://github.com/Morcineck/notificacao)
+-  [Serviço de Usuários e Autenticação](https://github.com/Morcineck/usuario)
+-  [BFF - Agendador de Tarefas](https://github.com/Morcineck/bff-agendador-tarefas)
+-  [Serviço de Tarefas](https://github.com/Morcineck/agendador-tarefas)
+-  [Serviço de Notificações](https://github.com/Morcineck/notificacao)
 
 ---
 
-### 🏢 GLP Client Portal - Gestão de Contratos e Clientes
+### GLP Client Portal - Gestão de Contratos e Clientes
 
 Aplicação backend desenvolvida para gerenciamento de clientes, contratos e suas respectivas regras de negócio, utilizando arquitetura monolítica modular.
 
@@ -124,7 +124,7 @@ Aplicação backend desenvolvida para gerenciamento de clientes, contratos e sua
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
+##  Minhas Estatísticas do GitHub
 
 <div align="center">
   <img
@@ -140,13 +140,13 @@ Aplicação backend desenvolvida para gerenciamento de clientes, contratos e sua
  
 ---
  
-## 📚 Formação Complementar
+## Formação Complementar
  
 - **Curso de Banco de Dados** - Javanauta (2026)
 - **Curso de Java e Spring Boot** - Javanauta (2026)
 - **Curso Desenvolvimento Backend** - Escola Superior De Redes (2026)
 ---
  
-## 📫 Contato
+## Contato
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-gabriel-079043394/)
