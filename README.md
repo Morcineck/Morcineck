@@ -40,15 +40,14 @@ Plataforma backend criada para apoiar a gestão operacional de viagens, hospedag
 
 O projeto está sendo desenvolvido de forma incremental, com organização modular e foco na evolução de uma aplicação utilizada em um contexto real de negócio.
 
-**Principais implementações:
-
-API REST em Java 17 e Spring Boot
-Autenticação com Spring Security e JWT em cookie, proteção CSRF, rate limiting no login e headers de segurança
-MySQL com migrações versionadas via Flyway
-Docker e Docker Compose, com health checks e logs estruturados
-Mais de 580 testes automatizados no backend
-CI com GitHub Actions e análise de qualidade no SonarQube
-Desenvolvimento organizado por issues, branches e pull requests
+**Principais implementações:**
+- API REST em Java 17 e Spring Boot
+- Autenticação com Spring Security e JWT em cookie, proteção CSRF, rate limiting no login e headers de segurança
+- MySQL com migrações versionadas via Flyway
+- Docker e Docker Compose, com health checks e logs estruturados
+- Mais de 580 testes automatizados no backend
+- CI com GitHub Actions e análise de qualidade no SonarQube
+- Desenvolvimento organizado por issues, branches e pull requests
 
 **Tecnologias:**  
 `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Flyway` `JUnit` `Mockito` `Docker` `GitHub Actions` `SonarQube`
@@ -138,7 +137,7 @@ Aplicação backend desenvolvida para gerenciamento de clientes, contratos e sua
  
 ---
  
-## Formação Complementar
+## Formação 
  
 - Java com Spring | Javanauta | 2026
 - Banco de Dados SQL e NoSQL | Javanauta | 2026
@@ -151,4 +150,4 @@ Aplicação backend desenvolvida para gerenciamento de clientes, contratos e sua
  
 ## Contato
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-gabriel-079043394/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-gabriel-morcineck/)
