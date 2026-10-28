@@ -139,13 +139,12 @@ Aplicação backend desenvolvida para gerenciamento de clientes, contratos e sua
  
 ## Formação 
  
+**Cursos:**
 - Java com Spring | Javanauta | 2026
 - Banco de Dados SQL e NoSQL | Javanauta | 2026
 - Desenvolvimento Backend | Escola Superior de Redes (ESR/RNP) | 2026
 - Metodologias Ágeis Scrum | Javanauta | 2026
-- Fundamentos da IA Moderna | DIO | 2026- **Curso de Banco de Dados** - Javanauta (2026)
-- **Curso de Java e Spring Boot** - Javanauta (2026)
-- **Curso Desenvolvimento Backend** - Escola Superior De Redes (2026)
+- Fundamentos da IA Moderna | DIO | 2026
 ---
  
 ## Contato
