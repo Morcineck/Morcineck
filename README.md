@@ -1,14 +1,14 @@
-## Olá, eu sou Robson Gabriel (Morcineck)
-
-
 ### Sobre mim
-Desenvolvedor Back-end com foco em **Java** e **Spring Boot**, atuando no desenvolvimento de **APIs RESTful**, autenticação e autorização com **Spring Security** e **JWT**, além da persistência de dados utilizando **JPA/Hibernate**, **PostgreSQL** e **MongoDB**.
 
-Tenho interesse em **Segurança da Informação**, Inteligência e Geopolítica, áreas que fortaleceram minha capacidade analítica e minha abordagem estruturada para resolução de problemas. Minha experiência no meio militar contribuiu para o desenvolvimento de disciplina, responsabilidade e tomada de decisão sob pressão, características que aplico diariamente no desenvolvimento de software.
+Por muito tempo, meu trabalho foi proteger. Na Força Aérea, na Polícia da Aeronáutica e no Pelotão de Operações Especiais. Depois, na segurança privada, no monitoramento por câmeras.
 
-Em projetos acadêmicos e pessoais, busco aplicar princípios **SOLID** e boas práticas de **Clean Code** para desenvolver soluções organizadas, testáveis e de fácil manutenção.
+Programar era um sonho antigo. Virou realidade quando a Beat Trips, onde coordeno a operação, precisou de um sistema e eu decidi construí-lo.
 
-> "A repetição com correção até a exaustão leva à perfeição." Carrego esse princípio para cada linha de código.
+Estudando, senti falta de material que explicasse o porquê de cada linha. Foi assim que nasceu o Código Comentado.
+
+Hoje escrevo código do jeito que aprendi a trabalhar: com processo, atenção aos detalhes e responsabilidade com quem depende do que eu entrego.
+
+> "A repetição com correção até a exaustão leva à perfeição."
 ---
 
  
@@ -40,17 +40,18 @@ Plataforma backend criada para apoiar a gestão operacional de viagens, hospedag
 
 O projeto está sendo desenvolvido de forma incremental, com organização modular e foco na evolução de uma aplicação utilizada em um contexto real de negócio.
 
-**Implementado até o momento:**
-- Estrutura inicial da aplicação
-- Módulo de gerenciamento de viagens
-- Operações CRUD através de API REST
-- DTOs e mapeamento entre camadas
-- Validações e tratamento centralizado de exceções
-- Persistência em banco de dados relacional
-- Testes automatizados
+**Principais implementações:
+
+API REST em Java 17 e Spring Boot
+Autenticação com Spring Security e JWT em cookie, proteção CSRF, rate limiting no login e headers de segurança
+MySQL com migrações versionadas via Flyway
+Docker e Docker Compose, com health checks e logs estruturados
+Mais de 580 testes automatizados no backend
+CI com GitHub Actions e análise de qualidade no SonarQube
+Desenvolvimento organizado por issues, branches e pull requests
 
 **Tecnologias:**  
-`Java` `Spring Boot` `MySQL` `Spring Data JPA` `Maven` `JUnit` `Mockito` `Git`
+`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Flyway` `JUnit` `Mockito` `Docker` `GitHub Actions` `SonarQube`
 
 > 🔗 [Acessar projeto](https://github.com/Morcineck/bths-platform)
 
@@ -83,15 +84,13 @@ O projeto é dividido em serviços independentes responsáveis por autenticaçã
 
 **Principais implementações:**
 - Autenticação e autorização com Spring Security e JWT
-- Arquitetura baseada em microsserviços
-- Camada BFF para centralização das requisições
-- Comunicação entre serviços utilizando APIs REST e Feign Client
+- Camada BFF para centralizar as requisições
+- Comunicação entre serviços com APIs REST e Feign Client
 - Persistência relacional e não relacional
 - Testes automatizados
-- Conteinerização com Docker
-- Automação de build com GitHub Actions
-
-**Tecnologias:**  
+- Conteinerização com Docker e build automatizado com GitHub Actions
+  
+**Tecnologias:**
 `Java` `Spring Boot` `Spring Security` `JWT` `Feign Client` `PostgreSQL` `MongoDB` `Docker` `GitHub Actions`
 
 **Repositórios:**
@@ -108,17 +107,16 @@ O projeto é dividido em serviços independentes responsáveis por autenticaçã
 Aplicação backend desenvolvida para gerenciamento de clientes, contratos e suas respectivas regras de negócio, utilizando arquitetura monolítica modular.
 
 **Principais implementações:**
-- Gerenciamento de clientes e contratos
-- Modelagem de relacionamentos entre entidades
-- Implementação de regras de negócio
-- Controle do ciclo de vida contratual
-- Persistência utilizando Spring Data JPA e Hibernate
-- Integridade referencial e relacionamentos no PostgreSQL
-- Tratamento centralizado de exceções
-- Organização da aplicação em módulos
+- API REST em Java e Spring Boot
+- Spring Security e JWT, com perfis ADMIN e CLIENTE e isolamento de dados por cliente
+- Dashboard e relatório em PDF
+- Controle financeiro de mensalidades (pendente, pago e vencido)
+- Regras de integridade mensal por contrato e competência
+- Documentação com Swagger/OpenAPI
+- Docker, CI e testes automatizados
 
-**Tecnologias:**  
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `PostgreSQL` `REST API` `Git`
+**Tecnologias:**
+`Java` `Spring Boot` `Spring Security` `JWT` `Spring Data JPA` `Hibernate` `PostgreSQL` `Swagger` `Docker`
 
 🔗 [Acessar projeto](https://github.com/Morcineck/glp-client-portal)
 
@@ -142,7 +140,11 @@ Aplicação backend desenvolvida para gerenciamento de clientes, contratos e sua
  
 ## Formação Complementar
  
-- **Curso de Banco de Dados** - Javanauta (2026)
+- Java com Spring | Javanauta | 2026
+- Banco de Dados SQL e NoSQL | Javanauta | 2026
+- Desenvolvimento Backend | Escola Superior de Redes (ESR/RNP) | 2026
+- Metodologias Ágeis Scrum | Javanauta | 2026
+- Fundamentos da IA Moderna | DIO | 2026- **Curso de Banco de Dados** - Javanauta (2026)
 - **Curso de Java e Spring Boot** - Javanauta (2026)
 - **Curso Desenvolvimento Backend** - Escola Superior De Redes (2026)
 ---
